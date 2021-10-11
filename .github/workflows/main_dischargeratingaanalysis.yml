@@ -60,4 +60,4 @@ jobs:
         with:
           app-name: 'DischargeRatingAanalysis'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_EDE8AD4DB12243DFAFFB8A6568479583 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_6F6F3561AF034A63AF89567BE703D915 }}
