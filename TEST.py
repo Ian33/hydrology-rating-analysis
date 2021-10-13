@@ -19,7 +19,7 @@ external_stylesheets = ['https://codepen.io/chriddyp/pen/bWLwgP.css']
 #webbrowser.get("C:/Program Files (x86)/Google/Chrome/Application/chrome.exe %s").open_new("http://127.0.0.1:8050/")
 app = dash.Dash(__name__, external_stylesheets=external_stylesheets)
 #webbrowser.get('chrome')
-application = app.server
+#application = app.server
 #webbrowser.get("C:/Program Files (x86)/Google/Chrome/Application/chrome.exe %s").open_new("http://127.0.0.1:8050/")
 
 # every query type needs its own connection string
