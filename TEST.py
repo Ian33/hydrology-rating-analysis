@@ -19,5 +19,5 @@ app.layout = html.Div([
     style={'color':'#00361c','text-align':'center'
           })
       ])
-if __name__ == '__main__':
-    application.run(debug=True, host='0.0.0.0', port='80')
+if __name__=='__main__':
+    app.run_server()
